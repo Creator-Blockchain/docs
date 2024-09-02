@@ -1,0 +1,2 @@
+# docs
+Creator Blockchain documentation
